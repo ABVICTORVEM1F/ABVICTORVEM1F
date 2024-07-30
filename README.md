@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 🥖
 
-*Meu nome é Victor*
+*Meu nome é Victor Verdeiro*
 
 - Estou estudando no Alura
 - Estou me desenvolvendo na linguagem JavaScript
